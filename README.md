@@ -18,6 +18,15 @@
 버전 1.1에서는 로그인 기능을 추가할 계획이다.   
 
 
+<div>
+<img src="https://user-images.githubusercontent.com/24581617/98131093-49959b80-1efe-11eb-9897-1873e9a8cee9.png">
+<img src="https://user-images.githubusercontent.com/24581617/98131108-4c908c00-1efe-11eb-885c-027f4c6ca47c.png">
+<img src="https://user-images.githubusercontent.com/24581617/98131120-4f8b7c80-1efe-11eb-9992-5a8aaf711c93.png">
+<img src="https://user-images.githubusercontent.com/24581617/98131122-4f8b7c80-1efe-11eb-8342-fee72019b515.png">
+</div>
 
 
 앱 링크   https://apps.apple.com/kr/app/%EC%9B%A8%EC%9D%B4%ED%8A%B8%EC%9A%B4%EB%8F%99%EA%B8%B0%EB%A1%9D/id1538342743
+
+
+
