@@ -2,7 +2,7 @@
 
 기능 - 운동 일지 기록  
       주변 헬스장 위치 표시  
-        
+          
 사용 라이브러리 -   RxSwift  
                 RxCocoa  
                 RealmSwift  
@@ -25,7 +25,7 @@
 <img width ="200" src="https://user-images.githubusercontent.com/24581617/98131122-4f8b7c80-1efe-11eb-8342-fee72019b515.png">
 </div>
 
-
+  
 [앱 링크](https://apps.apple.com/kr/app/%EC%9B%A8%EC%9D%B4%ED%8A%B8%EC%9A%B4%EB%8F%99%EA%B8%B0%EB%A1%9D/id1538342743)
 
 
